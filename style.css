@@ -1,0 +1,23 @@
+body{
+    background-color: #111;
+    color: #eee;
+}
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button{
+    border-radius: 5px;
+    padding: 4px;
+}
+.btn-green{
+    background-color: #0f0;
+}
+.btn-yellow{
+    background-color: #ff0;
+}
+.btn-red{
+    background-color: #f00;
+}
